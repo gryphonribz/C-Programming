@@ -27,5 +27,6 @@
         printf("%d %c %d = %d\n", num_one,sign_three,num_two,value_three);
         printf("%d %c %d = %d\n", num_one,sign_four,num_two,value_four);
         
+        return 0;
     }
     
